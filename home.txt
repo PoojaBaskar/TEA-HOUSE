@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TEA HOUSE</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600&display=swap" rel="stylesheet">  
+</head>
+<body>
+    <!------------------headersection------->
+   <section class="indexheader">
+       <nav>
+           <a href="home.html"><img src="images/logo.jpg" alt="index"></a>
+           <div class="links">
+               <ul>
+                   <li><a href="home.html">HOME</a></li>
+                   <li><a href="about.html">ABOUT</a></li>
+                   <li><a href="special.html">OUR SPECIALS</a></li>
+                   <li><a href="menu.html">MENU</a></li>
+                   <li><a href="contact.html">CONTACT US</a></li>
+               </ul>
+           </div>
+       </nav>
+       <main>
+           <div class="headercontent">
+            <h1 class="mainheader1">Tea House</h1>
+            <p class="mainpara1">Tea time is a chance to slow down, pull back and appreciate our surroundings. Real Adventure begins after a tea. So we offer tea and some snacks. A small contribution to bring smile on your face...<br> through its course programmes and extra-curricular programmes.</p>
+            <a href="special.html" class="masterbtn">Visit Us To Know More</a>
+            </div>
+            
+        </main>          
+   </section>
+   <!------------coursesection------>
+   <section class="specialsection">
+            <h1 class="specialweofferheader">Tea/Cofee</h1>
+           <p class="specialweofferpara">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti earum omnis voluptatem praesentium dicta, recusandae quidem laborum culpa fugiat libero, ullam optio deserunt ipsam minima et reprehenderit nesciunt provident ad.</p>
+            <div class="row">
+                <div class="column">
+                    <h1>Milk shake</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illum voluptatum laudantium vero reprehenderit provident adipisci dolor autem vitae eligendi sit tempore minus maiores vel quam, deserunt asperiores eos architecto porro!</p>
+
+                </div>
+                <div class="column">
+                    <h1>Brownies</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, ipsa optio vitae minus sapiente doloribus at nisi quod, debitis doloremque explicabo quam veniam fuga harum magnam cumque voluptates fugit quos.</p>
+
+                </div>
+                <div class="column">
+                    <h1>Ice cream</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, ipsa optio vitae minus sapiente doloribus at nisi quod, debitis doloremque explicabo quam veniam fuga harum magnam cumque voluptates fugit quos.</p>
+
+                </div>
+
+            </div>
+       
+   </section>
+   <!------contactus------>
+   <section class="contactusindex">
+       <h1>Enroll For Our Various Online Orders</h1>
+       <a class="masterbtn" href="contact.html">CONTACT US</a>
+   </section>
+   <!------footer----->
+   <section class="indexfooter">
+       <h4>About Us</h4>
+       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi rerum amet necessitatibus aliquam, ex sunt? <br> Nisi eaque fugiat quibusdam illo. At optio eum beatae vel.</p>
+   </section>
+    
+</body>
+</html>

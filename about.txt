@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tea House</title>
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600&display=swap" rel="stylesheet">  
+</head>
+<body>
+    <!------------------headersection------->
+   <section class="Aboutusheader">
+       <nav>
+           <a href="home.html"><img src="images/logo.jpg" alt="index"></a>
+           <div class="links">
+               <ul>
+                <li><a href="home.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="special.html">OUR SPECIALS</a></li>
+                <li><a href="menu.html">MENU</a></li>
+                <li><a href="contact.html">CONTACT US</a></li>
+               </li>
+           </div>
+           
+       </nav>
+       <h1>About Us</h1>
+               
+   </section>
+   <!------Aboutuspagecontent------>
+   <section class="aboutuspagecontent">
+       <div class="aboutuscontentrow">
+           <div class="aboutuscolumn">
+                <h1>“Enjoy life sip by sip" </h1>
+                    
+                    <p>We strive for perfection. From the finest ingredients we start the process of crafting the perfect cup of boba. Unlike the common boba shops out there we strive to offer a truly made to order cup of boba. Because of that we offer the ability to customize sweetness levels or even use almond milk as an alternative to cream. We even offer splenda as a sugar free alternative in a large number of our drinks, just ask! As we focus on making the best boba possible, we paired up with a local favorite, La Tour Cafe, to provide most of our baked goods such as macarons and sandwiches. At Mr. Tea we are proud to work hand in hand with La Tour to provide the highest quality in the products we sell. </p>
+           </div>
+           <div class="aboutuscolumn">
+                <img src="images/mudcuptea.jpg" alt="">
+           </div>
+       </div>
+
+   </section>
+   
+   <!------footer----->
+
+   
+   <section class="indexfooter">
+       <h4>About Us</h4>
+       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi rerum amet necessitatibus aliquam, ex sunt? <br> Nisi eaque fugiat quibusdam illo. At optio eum beatae vel.</p>
+   </section>
+    
+</body>
+</html>
